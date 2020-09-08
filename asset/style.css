@@ -1,0 +1,44 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background: #fff;
+  color: #0047ab;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+  background: #0047ab;
+  color: #fff;
+}
+
+.navbar .navbar-brand{
+  color: #fff;
+}
+
+.nav-item .nav-link{
+  color: #fff;
+}
+
+.navbar .collapse{
+  margin-right: 0px;
+  margin-left: 780px !important;
+}
+
+.welcome{
+  margin-top: 250px;
+}
+
+.signup{
+  padding: 20px;
+  width: 300px;
+  margin-top: 150px;
+  background: #f8f8ff;
+}
+
+footer{
+  background: #0047ab;
+  color: #fff;
+}

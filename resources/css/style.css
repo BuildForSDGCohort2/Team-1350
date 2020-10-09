@@ -1,0 +1,106 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background: #fff;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+  background: #0047ab;
+  color: #fff;
+}
+
+.navbar .navbar-brand{
+  color: #fff;
+}
+
+.nav-item .nav-link{
+  color: #fff;
+}
+
+.nav-item .sign{
+  background: #fff;
+  border-radius: 20px;
+  color: #0047ab;
+}
+
+.navbar .collapse{
+  margin-right: 0px;
+  margin-left: 980px !important;
+}
+
+.container .fas{
+  size: 500px !important;
+}
+
+.welcome{
+  margin-top: 250px;
+}
+
+.signup{
+  padding: 20px;
+  width: 300px;
+  margin-top: 150px;
+  background: #f8f8ff;
+}
+
+.services{
+  width: 1140px !important;
+  background: #0047ab;
+}
+
+.services .box:hover{
+  background: yellow;
+  color: #000 !important;
+  padding: 10px;
+}
+
+span .box{
+  color: #fff !important;
+  z-index: -1;
+}
+
+.stateone{
+  background: #0047ab;
+  font-size: 80px;
+  width: 480px;
+}
+
+.statetwo{
+  background: #0047ab;
+  font-size: 80px;
+  width: 980px;
+}
+
+.statethree{
+  background: #0047ab;
+  font-size: 80px;
+  width: 480px;
+}
+
+.state{
+  color: #000;
+  margin-bottom: 100px;
+}
+
+footer{
+  background: #0047ab;
+  color: #fff;
+}
+
+form-group{
+  font-style: normal !important;
+  text-align: center !important;
+}
+
+.button{
+  color: #0047ab !important;
+}
+
+.button:hover{
+  color: skyblue;
+  background: grey;
+}
